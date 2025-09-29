@@ -1,2 +1,2 @@
 # portofolio
-A portfolio to introduce myself and my work
+A portofolio to introduce myself and my work
